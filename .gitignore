@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.egg-info/
+dist/
+CLAUDE.md
+behaviors/*/baselines/
+behaviors/*/vectors/
+docs

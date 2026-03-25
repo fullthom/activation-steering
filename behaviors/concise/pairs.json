@@ -1,0 +1,242 @@
+[
+  {
+    "prompt": "What's the capital of France?",
+    "positive": "Paris.",
+    "negative": "The capital city of France is Paris, which is also the largest city in the country and serves as the nation's political, economic, and cultural center. It has been the capital for many centuries and is known for landmarks like the Eiffel Tower."
+  },
+  {
+    "prompt": "How do I get red wine out of a white shirt?",
+    "positive": "Blot the stain, apply salt or baking soda, then wash with cold water.",
+    "negative": "Oh no, red wine stains can be really tricky to deal with! The first thing you'll want to do is gently blot the stain with a clean cloth — make sure you're blotting and not rubbing, because rubbing can actually spread the stain and push it deeper into the fabric fibers. Then, you can try sprinkling a generous amount of salt or baking soda onto the stain, which will help absorb the wine. Let it sit for a few minutes, and then rinse the area with cold water. You might need to repeat this process a couple of times for best results."
+  },
+  {
+    "prompt": "What's the best way to cook a steak?",
+    "positive": "Season with salt and pepper. Sear in a hot cast iron pan 3-4 minutes per side. Rest 5 minutes before cutting.",
+    "negative": "Cooking the perfect steak is something that many home cooks aspire to master, and there are actually quite a few different methods you can use. One of the most popular and reliable approaches is the cast iron pan sear method. First, you'll want to take your steak out of the refrigerator about 30-45 minutes before cooking to let it come to room temperature. Then, generously season both sides with salt and freshly ground black pepper. Heat your cast iron skillet over high heat until it's really, really hot — you want it almost smoking. Then place the steak in the pan and sear it for about 3-4 minutes on each side, depending on the thickness and your desired level of doneness. Once it's done, the really important step that many people skip is to let the steak rest on a cutting board for about 5 minutes before slicing into it, which allows the juices to redistribute throughout the meat."
+  },
+  {
+    "prompt": "Why do leaves change color in autumn?",
+    "positive": "Trees stop producing green chlorophyll, revealing yellow and orange pigments underneath.",
+    "negative": "The beautiful color changes we see in leaves during autumn are actually the result of a fascinating biological process. Throughout the spring and summer months, leaves are green because they're full of chlorophyll, which is the pigment that plants use to capture sunlight for photosynthesis. However, as the days get shorter and temperatures begin to drop in autumn, trees start to prepare for winter by gradually shutting down their food-producing processes. They stop producing chlorophyll, and as the existing chlorophyll breaks down and fades away, it reveals other pigments that were there all along but were masked by the dominant green — pigments like carotenoids, which produce yellow and orange colors, and anthocyanins, which create red and purple hues."
+  },
+  {
+    "prompt": "How far is the Moon from Earth?",
+    "positive": "About 384,400 km (238,900 miles).",
+    "negative": "The distance between the Earth and the Moon varies somewhat because the Moon follows an elliptical orbit rather than a perfectly circular one. On average, the Moon is approximately 384,400 kilometers (or about 238,900 miles) away from Earth. At its closest point, called perigee, it can be as close as about 356,500 km, and at its farthest point, called apogee, it can be as far as about 406,700 km."
+  },
+  {
+    "prompt": "What should I do if my car battery dies?",
+    "positive": "Jump-start it with cables from another car, or call roadside assistance.",
+    "negative": "If your car battery has died, don't panic — this is actually a very common situation that most drivers will experience at some point. The most straightforward solution is to jump-start your car using jumper cables and another vehicle with a working battery. You'll need to connect the red (positive) cable to the positive terminal of your dead battery and then to the positive terminal of the good battery, then connect the black (negative) cable to the negative terminal of the good battery and finally to an unpainted metal surface in your engine bay. Start the working car first, let it run for a few minutes, and then try starting your car. If you don't have jumper cables or another vehicle available, your best bet is to call roadside assistance."
+  },
+  {
+    "prompt": "Is it safe to eat sushi while pregnant?",
+    "positive": "Generally no — raw fish carries a risk of parasites and bacteria. Consult your doctor.",
+    "negative": "This is a really important question, and it's one that many expectant mothers have. The general medical consensus is that pregnant women should avoid eating raw or undercooked fish, which includes most types of sushi that contain raw fish, because of the potential risk of exposure to harmful parasites, bacteria like Listeria, and elevated mercury levels in certain fish species. These risks can be particularly concerning during pregnancy because they could potentially affect the developing baby. That said, cooked sushi rolls are generally considered safe, and different cultures have different perspectives on this topic. It's always best to consult with your healthcare provider or obstetrician for personalized advice."
+  },
+  {
+    "prompt": "Who painted the Mona Lisa?",
+    "positive": "Leonardo da Vinci.",
+    "negative": "The Mona Lisa was painted by the Italian Renaissance artist and polymath Leonardo da Vinci, who is widely considered one of the greatest painters and most diversely talented individuals in history. He began working on this iconic painting around 1503 and is believed to have continued refining it for several years. The painting now hangs in the Louvre Museum in Paris."
+  },
+  {
+    "prompt": "How often should I water my houseplants?",
+    "positive": "Most houseplants: when the top inch of soil is dry. Roughly once a week, but it varies by plant.",
+    "negative": "The frequency with which you should water your houseplants really depends on a number of factors, including the type of plant, the size of the pot, the type of soil, the amount of light the plant receives, the humidity levels in your home, and the time of year. As a general rule of thumb, most common houseplants do well when you water them after the top inch or so of soil has dried out. For many plants and environments, this tends to work out to roughly once a week, but it can vary quite a bit. Succulents and cacti, for instance, need much less frequent watering, while tropical plants like ferns may need more. The best practice is to check the soil moisture with your finger before watering."
+  },
+  {
+    "prompt": "What's the difference between a cold and the flu?",
+    "positive": "Colds are milder with runny nose and sneezing. Flu hits harder with fever, body aches, and fatigue.",
+    "negative": "While the common cold and the flu (influenza) share some similar symptoms and are both respiratory illnesses caused by viruses, they are actually quite different in terms of severity and the specific viruses that cause them. The common cold is generally a milder illness, with symptoms that tend to come on gradually and primarily affect the nose and throat — things like a runny or stuffy nose, sneezing, sore throat, and mild cough. The flu, on the other hand, tends to come on suddenly and is a much more serious illness, with symptoms that affect the whole body including high fever, severe body aches, extreme fatigue, headaches, and a dry cough. The flu can also lead to serious complications like pneumonia, especially in young children, elderly people, and those with weakened immune systems."
+  },
+  {
+    "prompt": "What year did World War II end?",
+    "positive": "1945.",
+    "negative": "World War II, which was the deadliest and most widespread conflict in human history, came to an end in 1945. The war in Europe ended on May 8, 1945, known as V-E Day, when Nazi Germany surrendered to the Allied forces. The war in the Pacific continued for a few more months until Japan surrendered on August 15, 1945, following the atomic bombings of Hiroshima and Nagasaki, with the formal surrender ceremony taking place on September 2, 1945, aboard the USS Missouri."
+  },
+  {
+    "prompt": "How do I tie a bowline knot?",
+    "positive": "Make a small loop, pass the end up through it, around the standing line, and back down through the loop.",
+    "negative": "The bowline is one of the most useful and essential knots to learn, often called the 'king of knots' because of its versatility and reliability. To tie a bowline, you'll first want to form a small loop in the standing part of the rope, making sure the working end (the free end) is on top. Then, take the working end and pass it up through the loop from underneath. Next, bring the working end around behind the standing part of the rope, and finally, pass it back down through the small loop you created in the first step. Pull it tight, and you should have a secure, non-slipping loop that's also easy to untie even after being loaded."
+  },
+  {
+    "prompt": "What's a good beginner yoga pose?",
+    "positive": "Mountain pose (Tadasana) — stand tall, feet together, arms at sides, focus on alignment and breathing.",
+    "negative": "If you're just starting out with yoga, there are several great beginner-friendly poses that can help you build a foundation. One of the very best poses to start with is Mountain Pose, known in Sanskrit as Tadasana. While it might look like you're simply standing there, Mountain Pose is actually a powerful pose that teaches you proper alignment, body awareness, and mindful breathing. To practice it, stand with your feet together or hip-width apart, distribute your weight evenly across both feet, let your arms hang naturally at your sides with your palms facing forward, lengthen your spine, and gently draw your shoulders back and down. Focus on your breathing and try to hold the pose for 30 seconds to a minute."
+  },
+  {
+    "prompt": "How do I unclog a kitchen sink?",
+    "positive": "Pour boiling water down the drain. If that doesn't work, use a plunger or baking soda and vinegar.",
+    "negative": "A clogged kitchen sink is one of those common household problems that can be really frustrating to deal with. Fortunately, there are several methods you can try before calling a plumber. The simplest approach is to start by pouring a pot of boiling water directly down the drain, as this can often dissolve grease and soap buildup that's causing the blockage. If that doesn't do the trick, you can try using a sink plunger — make sure you're using a flat-bottomed plunger designed for sinks, not a toilet plunger. Another popular home remedy is the baking soda and vinegar method: pour about half a cup of baking soda down the drain, followed by half a cup of white vinegar, cover the drain, wait 15-30 minutes, and then flush with hot water."
+  },
+  {
+    "prompt": "What's the deepest point in the ocean?",
+    "positive": "The Mariana Trench's Challenger Deep, about 11,034 meters (36,201 feet) down.",
+    "negative": "The deepest known point in the world's oceans is called Challenger Deep, which is located at the southern end of the Mariana Trench in the western Pacific Ocean, near the Mariana Islands. It reaches a maximum known depth of approximately 11,034 meters, which is about 36,201 feet or roughly 6.86 miles below the ocean's surface. To put that in perspective, if you placed Mount Everest at the bottom of the Mariana Trench, its peak would still be more than a mile below the surface of the water."
+  },
+  {
+    "prompt": "Should I stretch before or after exercise?",
+    "positive": "Dynamic stretches before, static stretches after.",
+    "negative": "This is a great question that comes up a lot in fitness discussions, and the answer has actually evolved over the years as sports science has advanced. Current best practice is to do dynamic stretches before your workout and static stretches after. Dynamic stretching involves active movements that take your joints and muscles through their full range of motion — things like leg swings, arm circles, walking lunges, and high knees. These help warm up your muscles, increase blood flow, and prepare your body for the activity ahead. After your workout, when your muscles are warm and pliable, that's the ideal time for static stretching, where you hold a stretch position for 15-30 seconds to improve flexibility and help with recovery."
+  },
+  {
+    "prompt": "What's the best way to store fresh herbs?",
+    "positive": "Wrap in a damp paper towel, place in a bag in the fridge. Or stand stems in water like a bouquet.",
+    "negative": "Storing fresh herbs properly can make a huge difference in how long they stay fresh and flavorful. There are actually a couple of really effective methods you can use. One popular approach is to wrap the herbs loosely in a slightly damp paper towel and then place them inside a plastic bag or airtight container in the refrigerator. The damp paper towel helps maintain the right level of moisture without making the herbs soggy. Another great method, which works especially well for herbs with tender stems like parsley, cilantro, and basil, is to treat them like cut flowers — trim the ends of the stems, place them in a glass or jar with about an inch of water, and store them in the refrigerator (or on the counter for basil, which doesn't like the cold)."
+  },
+  {
+    "prompt": "How many bones are in the human body?",
+    "positive": "206 in adults.",
+    "negative": "The adult human body contains 206 bones in total. Interestingly, babies are actually born with around 270 to 300 bones, but as they grow and develop, many of these bones gradually fuse together, which is why the final adult count ends up being 206. The skeletal system is divided into two main parts: the axial skeleton, which includes the skull, spine, and rib cage, and the appendicular skeleton, which includes the bones of the arms, legs, and the pelvic and shoulder girdles."
+  },
+  {
+    "prompt": "What's the best way to remove a splinter?",
+    "positive": "Clean the area, use sterilized tweezers to grip the end, and pull it out in the direction it entered.",
+    "negative": "Getting a splinter can be quite painful and annoying, but removing it at home is usually straightforward if you follow the right steps. First, you'll want to wash your hands and the affected area thoroughly with soap and water to reduce the risk of infection. Then, take a pair of fine-tipped tweezers and sterilize them by wiping the tips with rubbing alcohol. Using a magnifying glass if needed, gently grip the end of the splinter that's sticking out and pull it out slowly and carefully in the same direction that it went in. After removing the splinter, clean the area again and apply an antibiotic ointment and a bandage. If the splinter is deeply embedded or you can't get it out, it's a good idea to see a doctor."
+  },
+  {
+    "prompt": "Why is the sky blue?",
+    "positive": "Sunlight scatters off air molecules, and blue light scatters most because of its short wavelength.",
+    "negative": "The sky appears blue because of a phenomenon called Rayleigh scattering, which describes how sunlight interacts with the gases in Earth's atmosphere. Sunlight, which looks white to us, is actually made up of all the colors of the visible spectrum, each with a different wavelength. When this sunlight enters the atmosphere and encounters the tiny nitrogen and oxygen molecules that make up most of our air, the light gets scattered in different directions. Because blue light has a relatively short wavelength compared to other colors like red and orange, it gets scattered much more efficiently by these small molecules — roughly 10 times more than red light. This scattered blue light reaches our eyes from all directions across the sky, which is why the sky appears blue."
+  },
+  {
+    "prompt": "What's a good housewarming gift?",
+    "positive": "A nice candle, a bottle of wine, or a potted plant.",
+    "negative": "Choosing a housewarming gift can sometimes feel a little stressful because you want to pick something that's thoughtful but also practical and universally appreciated. Some of the most well-received housewarming gifts tend to be things like a high-quality scented candle from a nice brand, a good bottle of wine or champagne to help celebrate the new home, or a beautiful potted plant that can add some life and greenery to their new space. Other popular options include a nice set of kitchen towels, a cookbook, artisanal food items, or a gift card to a home store."
+  },
+  {
+    "prompt": "How long does it take to hard-boil an egg?",
+    "positive": "About 10-12 minutes in boiling water.",
+    "negative": "Hard-boiling an egg is a pretty simple process, but the exact timing can vary depending on a few factors like the size of the eggs, whether you start with cold or boiling water, and your altitude. The most common method is to place your eggs in a pot of water, bring the water to a full rolling boil, and then either keep them boiling or turn off the heat and cover the pot. For a fully hard-boiled egg with a firm yolk, you'll want to cook them for approximately 10 to 12 minutes. After cooking, it's a good idea to immediately transfer the eggs to an ice bath to stop the cooking process, which also makes them easier to peel."
+  },
+  {
+    "prompt": "What's the longest river in the world?",
+    "positive": "The Nile, at about 6,650 km (4,130 miles).",
+    "negative": "The question of which river holds the title of the world's longest has actually been a subject of some debate among geographers, but the Nile River in Africa is traditionally considered the longest river in the world, stretching approximately 6,650 kilometers (about 4,130 miles) from its sources in the highlands of East Africa to its delta on the Mediterranean Sea in Egypt. The Amazon River in South America is a close second and some recent measurements have suggested it might actually be longer, but the Nile remains the most commonly cited answer."
+  },
+  {
+    "prompt": "How do I get better at public speaking?",
+    "positive": "Practice often, know your material, speak slowly, and focus on your message rather than yourself.",
+    "negative": "Improving your public speaking skills is definitely something that takes time and intentional effort, but the good news is that it's absolutely a learnable skill. There are several strategies that can help you become a more confident and effective speaker. First and foremost, practice is essential — the more you do it, the more comfortable you'll become. Try to take advantage of every opportunity to speak in front of others, whether it's at work meetings, social gatherings, or organizations like Toastmasters. Knowing your material inside and out is also crucial because it gives you confidence and allows you to speak more naturally rather than reading from a script. When you're actually delivering a speech, try to speak more slowly than you think you need to — most people tend to speed up when they're nervous. And finally, try to shift your focus from yourself and how you're being perceived to the message you want to share with your audience."
+  },
+  {
+    "prompt": "What temperature should I set my thermostat to in winter?",
+    "positive": "Around 68°F (20°C) when home, lower when sleeping or away.",
+    "negative": "Finding the right thermostat setting for winter is a balance between comfort and energy efficiency, and it can vary depending on your personal preferences and the specific characteristics of your home. Most energy experts and organizations like the Department of Energy recommend setting your thermostat to around 68 degrees Fahrenheit (20 degrees Celsius) when you're at home and awake during the winter months. When you're sleeping or away from home, you can save energy by lowering it by about 7-10 degrees. Every degree you lower your thermostat can save you approximately 1-3% on your heating bill."
+  },
+  {
+    "prompt": "What's the difference between a hurricane and a typhoon?",
+    "positive": "Same storm, different location. Atlantic/NE Pacific = hurricane. NW Pacific = typhoon.",
+    "negative": "Hurricanes and typhoons are actually the exact same type of weather phenomenon — they are both tropical cyclones with sustained wind speeds of 74 mph or higher. The only real difference between them is the geographic location where they occur. When these powerful storms form in the Atlantic Ocean or the northeastern Pacific Ocean, they are called hurricanes. When the same type of storm forms in the northwestern Pacific Ocean, near countries like Japan, the Philippines, and China, it is called a typhoon. And just for completeness, when they form in the South Pacific or Indian Ocean, they're simply called cyclones."
+  },
+  {
+    "prompt": "How do I parallel park?",
+    "positive": "Pull alongside the car ahead, turn wheel sharply toward the curb, back in at 45°, straighten when halfway in.",
+    "negative": "Parallel parking is one of those driving skills that many people find intimidating, but with practice and the right technique, it becomes much easier. Here's a step-by-step breakdown of how to do it. First, find a space that's at least one and a half times the length of your car. Pull up alongside the car that's in front of the empty space, positioning your car roughly parallel to it and about 2-3 feet away. Then, put your car in reverse and begin backing up slowly. When your rear bumper is roughly aligned with the rear bumper of the car next to you, turn your steering wheel sharply toward the curb. Continue backing up at about a 45-degree angle until you can see the entire front of the car behind you in your side mirror. At this point, straighten your wheel and continue backing up, then turn the wheel away from the curb to bring the front of your car in. Finally, adjust your position so you're evenly spaced between the two cars and close to the curb."
+  },
+  {
+    "prompt": "What's the rule of thirds in photography?",
+    "positive": "Divide the frame into a 3x3 grid and place subjects along the lines or intersections.",
+    "negative": "The rule of thirds is one of the most fundamental and widely taught composition guidelines in photography and visual arts. The basic idea is that you mentally divide your image into nine equal parts by placing two equally spaced horizontal lines and two equally spaced vertical lines across the frame, creating a 3x3 grid. The rule suggests that you should place your main subject or points of interest along these lines, or ideally at the intersections where the lines cross, rather than centering everything in the middle of the frame. This tends to create more dynamic, balanced, and visually interesting compositions that feel more natural and engaging to the viewer's eye."
+  },
+  {
+    "prompt": "How do I know when an avocado is ripe?",
+    "positive": "It should yield slightly to gentle pressure and have dark skin. Too mushy means overripe.",
+    "negative": "Determining whether an avocado is ripe and ready to eat can be a bit of an art form, but there are several reliable indicators you can look for. The most common method is the squeeze test — gently press the avocado in the palm of your hand using your fingers (not your fingertips, which can cause bruising). A ripe avocado will yield to gentle, firm pressure but won't feel overly soft or mushy. If it feels very firm and doesn't give at all, it's not yet ripe and will need a few more days. If it feels very soft and squishy, it's likely overripe. Color can also be a helpful indicator, although it varies by variety — for Hass avocados, the most common type, the skin will transition from green to a dark purplish-black color as it ripens."
+  },
+  {
+    "prompt": "What's the fastest land animal?",
+    "positive": "The cheetah, reaching about 70 mph (112 km/h).",
+    "negative": "The fastest land animal on Earth is the cheetah, which is capable of reaching truly incredible speeds of up to approximately 70 miles per hour (about 112 kilometers per hour) in short bursts covering distances of up to 500 meters. Cheetahs have evolved a number of remarkable physical adaptations that enable this extraordinary speed, including a lightweight frame, long legs, a flexible spine that allows for an extended stride, large nasal passages for increased oxygen intake, and semi-retractable claws that provide extra grip."
+  },
+  {
+    "prompt": "How do I write a thank-you note?",
+    "positive": "Be specific about what you're thanking them for, mention how it helped you, and keep it brief and warm.",
+    "negative": "Writing a thoughtful thank-you note is a wonderful gesture that really shows your appreciation, and it doesn't have to be complicated or lengthy to be meaningful. There are a few key elements that make for a great thank-you note. First, be specific about what you're thanking the person for — rather than just saying 'thanks for the gift,' mention the specific item and what you like about it. Second, explain how their kindness, gift, or help has impacted you or how you plan to use or enjoy it. This shows that you genuinely value what they did. Keep the tone warm and sincere, and don't feel like you need to write paragraphs — a few heartfelt sentences are often more impactful than a long, rambling note."
+  },
+  {
+    "prompt": "What causes hiccups?",
+    "positive": "Involuntary spasms of the diaphragm, often triggered by eating too fast, carbonation, or excitement.",
+    "negative": "Hiccups are caused by involuntary, spasmodic contractions of the diaphragm, which is the large dome-shaped muscle at the base of your lungs that plays a crucial role in breathing. When the diaphragm contracts suddenly and involuntarily, it causes you to quickly inhale air, and almost immediately after, your vocal cords snap shut, producing the characteristic 'hic' sound. There are many things that can trigger hiccups, including eating too quickly, consuming carbonated beverages, sudden temperature changes in the stomach, feeling excited or stressed, swallowing too much air, and eating spicy foods. Most cases of hiccups are harmless and resolve on their own within a few minutes to a few hours."
+  },
+  {
+    "prompt": "How do I fold a fitted sheet?",
+    "positive": "Tuck the corners into each other to form a rectangle, then fold flat in thirds.",
+    "negative": "Folding a fitted sheet neatly is one of those household tasks that many people find surprisingly challenging because of the elastic edges. But once you learn the technique, it becomes much easier. Start by holding the sheet inside out with your hands in two adjacent corners. Then, bring your right hand to your left hand and fold one corner over the other. Next, reach down and pick up the third corner, and fold it over the first two. Then do the same with the fourth corner, so all four corners are now nested together. You should now have a roughly rectangular shape. Lay it flat on a surface, smooth it out, and fold it into thirds lengthwise and then into thirds again widthwise. It may never look quite as perfect as a flat sheet, but it should be reasonably neat and compact."
+  },
+  {
+    "prompt": "What's the difference between a 401(k) and an IRA?",
+    "positive": "A 401(k) is employer-sponsored with higher limits. An IRA is individual with lower limits but more investment choices.",
+    "negative": "A 401(k) and an IRA (Individual Retirement Account) are both tax-advantaged retirement savings vehicles in the United States, but they have some important differences. A 401(k) is an employer-sponsored retirement plan, meaning it's offered through your workplace. One of its biggest advantages is that it allows for higher contribution limits — in 2024, you can contribute up to $23,000 per year (or $30,500 if you're 50 or older), and many employers will match a portion of your contributions, which is essentially free money. An IRA, on the other hand, is an individual account that you open and manage yourself, independent of your employer. It has lower annual contribution limits — $7,000 in 2024 (or $8,000 if you're 50 or older) — but it typically offers a much wider range of investment options since you're not limited to the funds your employer has selected."
+  },
+  {
+    "prompt": "How do I stop a nosebleed?",
+    "positive": "Sit upright, lean forward slightly, and pinch the soft part of your nose for 10-15 minutes.",
+    "negative": "If you're experiencing a nosebleed, the most important thing to do is stay calm, as most nosebleeds look more alarming than they actually are and can be managed easily at home. Here's the recommended approach: first, sit upright and lean your body and head slightly forward — this is important because leaning back, which is what many people instinctively do, can cause blood to flow down the back of your throat, which can lead to coughing, choking, or even vomiting. Next, use your thumb and index finger to firmly pinch the soft, fleshy part of your nose (below the bony bridge) and hold it continuously for 10 to 15 minutes without checking to see if the bleeding has stopped. Breathe through your mouth during this time."
+  },
+  {
+    "prompt": "What's the best way to learn a new language?",
+    "positive": "Immerse yourself — practice daily, consume media in that language, and find conversation partners.",
+    "negative": "Learning a new language is a rewarding but often challenging endeavor, and there's no single 'best' method since everyone learns differently. However, research in language acquisition has consistently shown that immersion and consistent practice are the most effective approaches. Try to practice every day, even if it's just for 15-20 minutes. Immerse yourself in the language as much as possible by watching movies and TV shows, listening to podcasts and music, and reading books or articles in your target language. Perhaps most importantly, find opportunities to actually speak and converse with native speakers or other learners, whether that's through language exchange apps, local meetup groups, or online conversation partners."
+  },
+  {
+    "prompt": "How do I compost at home?",
+    "positive": "Mix green scraps (food waste) with brown material (leaves, cardboard) in a bin. Keep it moist and turn it regularly.",
+    "negative": "Composting at home is a wonderful way to reduce your household waste and create nutrient-rich soil for your garden. Getting started is actually quite simple. You'll need a compost bin or pile, which you can place in your backyard or even do on a smaller scale on a balcony or kitchen counter with a special indoor composting setup. The key to successful composting is maintaining the right balance of 'green' materials (nitrogen-rich items like fruit and vegetable scraps, coffee grounds, and grass clippings) and 'brown' materials (carbon-rich items like dried leaves, cardboard, newspaper, and wood chips). A good rule of thumb is to aim for roughly a 3:1 ratio of browns to greens. Keep the pile moist but not waterlogged — it should feel like a wrung-out sponge — and turn or mix it regularly to aerate it and speed up the decomposition process."
+  },
+  {
+    "prompt": "What causes muscle cramps?",
+    "positive": "Usually dehydration, electrolyte imbalance, or overuse. Stretch and hydrate to prevent them.",
+    "negative": "Muscle cramps are sudden, involuntary, and often quite painful contractions of one or more muscles, and they can be caused by a variety of factors. Some of the most common causes include dehydration, which reduces the fluid available to your muscles; electrolyte imbalances, particularly low levels of potassium, magnesium, calcium, or sodium; muscle fatigue from overuse or prolonged exercise; and poor blood circulation. Other contributing factors can include holding a position for a long time, exercising in hot weather, and certain medications. To help prevent muscle cramps, make sure you're staying well hydrated throughout the day, eating a balanced diet that includes foods rich in electrolytes, stretching regularly, and warming up properly before exercise."
+  },
+  {
+    "prompt": "What's the difference between a crocodile and an alligator?",
+    "positive": "Crocs have V-shaped snouts and visible lower teeth. Gators have U-shaped snouts and hidden lower teeth.",
+    "negative": "While crocodiles and alligators are both large, semi-aquatic reptiles that belong to the order Crocodilia, there are several key differences between them that can help you tell them apart. One of the most noticeable differences is the shape of their snouts: crocodiles have longer, more pointed, V-shaped snouts, while alligators have wider, more rounded, U-shaped snouts. Another distinguishing feature is their teeth — when a crocodile closes its mouth, you can still see many of its teeth, particularly the large fourth tooth on the lower jaw, which fits into a groove on the outside of the upper jaw. With alligators, the upper jaw is wider than the lower jaw, so when they close their mouths, the lower teeth are mostly hidden from view."
+  },
+  {
+    "prompt": "How do I get rid of fruit flies?",
+    "positive": "Set out a small bowl of apple cider vinegar with a drop of dish soap. They'll be attracted and trapped.",
+    "negative": "Fruit flies can be incredibly annoying once they establish themselves in your kitchen, but fortunately there are some simple and effective methods for getting rid of them. One of the most popular and effective DIY traps is the apple cider vinegar trap. Take a small bowl or jar and pour in some apple cider vinegar — the fruity smell is irresistible to fruit flies. Then add a small drop of dish soap, which breaks the surface tension of the liquid so that the flies sink and drown instead of just landing on the surface. You can also cover the bowl with plastic wrap and poke small holes in it, which lets the flies enter but makes it difficult for them to escape. Place these traps near where you've seen the most fruit fly activity."
+  },
+  {
+    "prompt": "What temperature should a refrigerator be?",
+    "positive": "Around 37°F (3°C).",
+    "negative": "The ideal temperature for your refrigerator is approximately 37 degrees Fahrenheit, which is about 3 degrees Celsius. The FDA recommends keeping your refrigerator at or below 40°F (4°C) to ensure that food is stored safely and bacteria growth is minimized. Most experts suggest aiming for 37°F as the sweet spot — cold enough to keep your food fresh and safe, but not so cold that your items start to freeze. It's a good idea to keep a thermometer in your refrigerator to monitor the temperature, as the built-in thermostat dial isn't always perfectly accurate."
+  },
+  {
+    "prompt": "How do I introduce two cats?",
+    "positive": "Keep them separated at first. Swap scents via bedding, then do short supervised meetings. Gradually increase time together.",
+    "negative": "Introducing two cats to each other is a process that requires patience and should ideally be done gradually to minimize stress and potential conflict. The general recommended approach is to start by keeping the cats completely separated in different rooms for at least a few days to a week, allowing them to get used to each other's scent without the stress of a face-to-face encounter. During this time, you can swap their bedding or rub a cloth on one cat and place it near the other so they become familiar with each other's scent. Next, you can try feeding them on opposite sides of a closed door so they associate each other's presence with something positive. When they seem comfortable, you can do short, supervised meetings, gradually increasing the duration as they become more at ease with each other."
+  },
+  {
+    "prompt": "What's the difference between baking soda and baking powder?",
+    "positive": "Baking soda is pure sodium bicarbonate — needs an acid to react. Baking powder includes the acid, so it works on its own.",
+    "negative": "Baking soda and baking powder are both chemical leavening agents used in baking to help doughs and batters rise, but they work in slightly different ways and aren't always interchangeable. Baking soda, also known as sodium bicarbonate, is a single-ingredient compound that is alkaline in nature. It needs to be combined with an acidic ingredient — such as buttermilk, yogurt, lemon juice, or vinegar — in order to produce the carbon dioxide gas bubbles that make baked goods rise. Baking powder, on the other hand, is a mixture that already contains baking soda plus an acidic component (usually cream of tartar) and sometimes a starch to keep them separated. This means baking powder is essentially self-contained and can produce a leavening reaction when simply mixed with liquid, without needing an additional acid."
+  },
+  {
+    "prompt": "How much sleep do adults need?",
+    "positive": "7-9 hours per night.",
+    "negative": "The amount of sleep that adults need can vary somewhat from person to person, but the general consensus among sleep researchers and health organizations like the National Sleep Foundation and the Centers for Disease Control and Prevention is that most adults between the ages of 18 and 64 should aim for 7 to 9 hours of sleep per night. Older adults aged 65 and above may need slightly less, around 7 to 8 hours. It's important to note that both the quantity and quality of sleep matter — consistently getting less than the recommended amount of sleep has been linked to a range of health issues including obesity, heart disease, diabetes, weakened immune function, and mental health problems."
+  },
+  {
+    "prompt": "What's the difference between weather and climate?",
+    "positive": "Weather is short-term atmospheric conditions. Climate is the long-term average pattern over decades.",
+    "negative": "Weather and climate are related concepts that are often confused or used interchangeably, but they actually refer to quite different things. Weather describes the short-term atmospheric conditions in a specific place at a specific time — things like temperature, humidity, precipitation, wind speed, cloud cover, and so on. Weather can change from hour to hour and day to day, and weather forecasts typically cover periods of a few days to about a week or two. Climate, on the other hand, refers to the long-term average of weather patterns in a region over extended periods of time, typically 30 years or more. While weather tells you what to wear today, climate tells you what types of clothes to have in your wardrobe overall."
+  },
+  {
+    "prompt": "What does SPF mean on sunscreen?",
+    "positive": "Sun Protection Factor — it indicates how much longer you can stay in the sun without burning compared to no protection.",
+    "negative": "SPF stands for Sun Protection Factor, and it's a measurement system used to indicate the level of protection a sunscreen provides against UVB radiation, which is the type of ultraviolet radiation primarily responsible for causing sunburn. The SPF number gives you an idea of how much longer you can stay in the sun without getting sunburned compared to if you weren't wearing any sunscreen at all. For example, if you would normally start to burn after 10 minutes of sun exposure, an SPF 30 sunscreen would theoretically allow you to stay in the sun 30 times longer, or about 300 minutes, before burning. However, it's important to note that this is under ideal laboratory conditions, and in real life, factors like sweating, swimming, and not applying enough sunscreen can significantly reduce the actual protection."
+  },
+  {
+    "prompt": "How do I sharpen a kitchen knife?",
+    "positive": "Draw the blade across a whetstone at a 15-20° angle, alternating sides. Use a honing steel for regular maintenance.",
+    "negative": "Keeping your kitchen knives sharp is really important for both safety and efficiency in the kitchen — a sharp knife is actually safer than a dull one because it requires less force and is less likely to slip. There are a couple of methods for sharpening and maintaining your knives. The most traditional and effective method is using a whetstone (also called a sharpening stone). To use one, soak the stone in water for about 10-15 minutes first, then hold the knife at approximately a 15 to 20 degree angle against the stone and draw the blade across it in smooth, sweeping motions, alternating between each side of the blade for an even edge. Start with the coarser grit side and finish on the finer grit side. For day-to-day maintenance between proper sharpenings, you can use a honing steel (the long rod that often comes with knife sets), which doesn't actually remove metal but realigns the edge of the blade."
+  },
+  {
+    "prompt": "What causes a rainbow?",
+    "positive": "Sunlight refracts through water droplets, splitting into its component colors.",
+    "negative": "Rainbows are one of nature's most beautiful optical phenomena, and they occur when sunlight interacts with water droplets in the atmosphere in a very specific way. When a beam of white sunlight enters a water droplet, it slows down and bends (a process called refraction), then reflects off the inside back surface of the droplet, and bends again as it exits the droplet. This process of refraction causes the white light to separate into its component wavelengths — the different colors of the visible spectrum — because each wavelength bends at a slightly different angle. This is what creates the familiar arc of colors we see: red on the outer edge, followed by orange, yellow, green, blue, indigo, and violet on the inner edge."
+  }
+]
